@@ -46,8 +46,8 @@ We will develop machine learning models: K-NN and CNN neural networks, inspect a
 ## Thank you  
 Thank you for considering our project proposal. We look forward to contributing to the advancement of neural networks for face recognition.
 
-### Preliminary Data  
-[Data Link](https://drive.google.com/file/d/1hwR-v9QjdN_X9tVUOkGZWq9a9atMQGny/)
+### Image Data  
+[Data Link](https://drive.google.com/file/d/1hVRjKoA8KjtTNNMhFgI0c80fYA8Aw-AM/view?usp=sharing)
 
 ### Reference  
 Xiong, Z., Wang, Z., Du, C., Zhu, R., Xiao, J., & Lu, T. (2018). An Asian face dataset and how race influences face recognition. In *Advances in Multimedia Information Processing–PCM 2018: 19th Pacific-Rim Conference on Multimedia, Hefei, China, September 21-22, 2018, Proceedings, Part II 19* (pp. 372-383). Springer International Publishing.
